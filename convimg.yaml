@@ -17,7 +17,7 @@ converts:
     palette: global_palette
     images:
       - hiiii.png
-
+      - tree.png
 outputs:
   - type: c
     include-file: gfx.h
